@@ -1,0 +1,4 @@
+Un ouvrier est caracterisé par un nom, un prénom et son age.
+Il peut etre un menuisier, un plombier, un carreleur, un staffeur etc et possede l'interface diplomeouvrier qui permet de savoir si celui-ci est diplome ou pas
+Les ouvriers sont classés par categories s'ils sont diplomés ou ne le sont pas dans le cas contraire.
+Les ouvriers ont chacun un ou plusieurs outil de travail, peuvent etre des entrepreneurs et possedent un revenu mensuel.
